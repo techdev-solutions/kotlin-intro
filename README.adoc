@@ -1,4 +1,4 @@
 = kotlin-intro image:https://travis-ci.org/techdev-solutions/kotlin-intro.svg?branch=master["Build Status",link="https://travis-ci.org/techdev-solutions/kotlin-intro"]
 
-A simple project skeleton for a Kotlin/Java project.
+A simple skeleton for a Kotlin/Java project.
 
